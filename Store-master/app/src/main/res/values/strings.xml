@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="et_User"> Ingrese su usuario</string>
+    <string name="et_Pass">Ingrese su Contraseña</string>
+    <string name="btnLogin">Iniciar Sesion</string>
+    <string name="btnRegister">Aqui</string>
+    <string name="btnRegistrar">REGISTRARME</string>
+    <string name="tv_Calzado">Calzado</string>
+    <string name="tv_Accesorios">Accesorios</string>
+    <string name="tv_Ropa">Ropa</string>
+    <string name="et_Nombres">Nombres</string>
+    <string name="et_Apellidos">Apellidos</string>
+    <string name="et_Usuario">Crea un Usuario</string>
+    <string name="et_Contra">Crea una Contraseña</string>
+    <string name="et_Sexo">Sexo</string>
+    <string name="tv_Tarjeta">Añadir una Tarjeta</string>
+    <string name="et_Direccion">Direccion</string>
+    <string name="et_DireccionEspecifica">Direccion Especifica</string>
+    <string name="tv_Registro">INGRESA TUS DATOS</string>
+    <string name="tv_Menu">Selecciona una Categoria</string>
+    <string name="title_activity_registrar">Registrar</string>
+
+    <string name="et_codigo">Codigo del producto</string>
+    <string name="et_nombre">Nombre del producto</string>
+    <string name="et_descripcion">Descripcion del producto</string>
+    <string name="et_precio">Precio del producto</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_Eliminar">Eliminar</string>
+    <string name="btn_agregar">Agregar</string>
+
+    <string name="tv_CNombre"></string>
+    <string name="tv_CApellido"></string>
+    <string name="tv_CDireccion"></string>
+    <string name="tv_CDireccionE"></string>
+    <string name="tv_CUsu">Ingresa tu usuario</string>
+
+
+</resources>
